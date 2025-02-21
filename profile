@@ -1,1 +1,1 @@
-worker: python3 SazuzModz_Manager.py
+worker: python3 SazuzModz_Manager.py 12
